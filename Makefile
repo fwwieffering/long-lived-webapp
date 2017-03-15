@@ -1,5 +1,5 @@
 WORKDIR = $(shell pwd)
-NAME = long-lived-webapp
+NAME = fwieffering/long-lived-webapp
 HOST_PORT = 5050
 REMOTE_PORT = 5050
 
